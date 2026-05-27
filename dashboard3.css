@@ -1,0 +1,18 @@
+.label {
+  width: 376px;
+  height: 12px;
+}
+
+.label .text-wrapper {
+  position: fixed;
+  top: 571px;
+  left: 933px;
+  width: 376px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 8px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
