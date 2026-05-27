@@ -16,23 +16,11 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Poppins-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Bold", "weight": "700", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Poppins-SemiBold";
-  src: local("Poppins-SemiBold");
-}
-/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
-
-@font-face {
-  font-family: "Poppins-Regular";
-  src: local("Poppins-Regular");
-}
-/* @FONTWARNING[{"type": "restricted", "family": "Inter-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
-
-@font-face {
-  font-family: "Inter-Regular";
-  src: local("Inter-Regular");
+  font-family: "Poppins-Bold";
+  src: local("Poppins-Bold");
 }
 /* @FONTWARNING[{"type": "restricted", "family": "Poppins-Medium", "weight": "500", "style": "normal", "allowsCrossOrigin": false}] */
 
@@ -40,33 +28,39 @@ a {
   font-family: "Poppins-Medium";
   src: local("Poppins-Medium");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Playfair Display-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Playfair Display-SemiBold";
-  src: local("Playfair Display-SemiBold");
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Inter-ExtraBold", "weight": "800", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Times New Roman-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Inter-ExtraBold";
-  src: local("Inter-ExtraBold");
+  font-family: "Times New Roman-Regular";
+  src: local("Times New Roman-Regular");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Datatype-Bold", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Thin", "weight": "100", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Datatype-Bold";
-  src: local("Datatype-Bold");
+  font-family: "Poppins-Thin";
+  src: local("Poppins-Thin");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Datatype-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-ThinItalic", "weight": "100", "style": "italic", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Datatype-Regular";
-  src: local("Datatype-Regular");
+  font-family: "Poppins-ThinItalic";
+  src: local("Poppins-ThinItalic");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Playfair Display-Bold", "weight": "700", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Playfair Display-Bold";
-  src: local("Playfair Display-Bold");
+  font-family: "Poppins-SemiBold";
+  src: local("Poppins-SemiBold");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Light", "weight": "300", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Poppins-Light";
+  src: local("Poppins-Light");
 }
