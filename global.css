@@ -28,12 +28,6 @@ a {
   font-family: "Poppins-Medium";
   src: local("Poppins-Medium");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
-
-@font-face {
-  font-family: "Poppins-Regular";
-  src: local("Poppins-Regular");
-}
 /* @FONTWARNING[{"type": "restricted", "family": "Times New Roman-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
@@ -46,21 +40,33 @@ a {
   font-family: "Poppins-Thin";
   src: local("Poppins-Thin");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Poppins-ThinItalic", "weight": "100", "style": "italic", "allowsCrossOrigin": false}] */
-
-@font-face {
-  font-family: "Poppins-ThinItalic";
-  src: local("Poppins-ThinItalic");
-}
 /* @FONTWARNING[{"type": "restricted", "family": "Poppins-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
   font-family: "Poppins-SemiBold";
   src: local("Poppins-SemiBold");
 }
-/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Light", "weight": "300", "style": "normal", "allowsCrossOrigin": false}] */
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
 
 @font-face {
-  font-family: "Poppins-Light";
-  src: local("Poppins-Light");
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Inter-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Inter-SemiBold";
+  src: local("Inter-SemiBold");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Playfair Display-SemiBold", "weight": "600", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Playfair Display-SemiBold";
+  src: local("Playfair Display-SemiBold");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Poppins-ThinItalic", "weight": "100", "style": "italic", "allowsCrossOrigin": false}] */
+
+@font-face {
+  font-family: "Poppins-ThinItalic";
+  src: local("Poppins-ThinItalic");
 }
